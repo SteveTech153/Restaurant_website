@@ -4,7 +4,7 @@
 ![4](https://user-images.githubusercontent.com/94610345/223123156-577d85c9-8066-4454-aa2b-a2059ea7b50c.png)
 ![5](https://user-images.githubusercontent.com/94610345/223123363-89f41fe9-99e1-4b4c-9a37-8421574d75d0.png)
 
-ADMIN SIDE
+  𝑨𝑫𝑴𝑰𝑵 𝑺𝑰𝑫𝑬
 
 ![admin1](https://user-images.githubusercontent.com/94610345/223123738-6abebce7-adff-4b20-a5a2-f4f821dbab79.png)
 ![admin2](https://user-images.githubusercontent.com/94610345/223123801-b6e288a3-fb08-490d-97e1-daaed6d62968.png)
