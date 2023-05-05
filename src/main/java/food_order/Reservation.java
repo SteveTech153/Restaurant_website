@@ -43,10 +43,8 @@ public class Reservation extends HttpServlet {
 	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		try{  
-	   		Class.forName("com.mysql.jdbc.Driver");  
-	   		Connection con=DriverManager.getConnection(  
-	   		"jdbc:mysql://localhost:3306/demo_schema1","root","Steve07@mysql");  
+		try{   
+	   		Connection con= new ConnectionClass().getConnection();
 			Statement stmt1 = con.createStatement();
 			PreparedStatement stmt;
 			PrintWriter out = response.getWriter();
