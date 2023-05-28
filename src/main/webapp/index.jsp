@@ -124,7 +124,6 @@
                     <div class="navbar-nav ms-auto py-0 pe-4">
                         <a href="#about" class="nav-item nav-link">About</a>
                         <a href="#menu" class="nav-item nav-link">Menu</a>
-                        <a href="order.jsp" class="nav-item nav-link">Order</a>
                         <a href="#reservation" class="nav-item nav-link">Reserve a table</a>
 						<a href="#testimonial" class="nav-item nav-link">Testimonials</a>
 						                        

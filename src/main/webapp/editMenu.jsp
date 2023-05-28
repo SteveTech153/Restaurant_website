@@ -68,7 +68,6 @@
                         <a href="admin.html" class="nav-item nav-link ">Home</a>
                         <a href="editRestaurantInfo.jsp" class="nav-item nav-link ">Edit Restaurant Info</a>
                         <a href="editMenu.jsp" class="nav-item nav-link active">Edit Menu</a>
-                        <a href="viewOrders.jsp" class="nav-item nav-link">View Orders</a>
                         <a href="viewReservations.jsp" class="nav-item nav-link">View Reservations</a>
                     
                     </div>
