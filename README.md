@@ -9,6 +9,9 @@
 ## Admin side 
 
 
+![admin1](https://github.com/SteveTech153/Restaurant_website/assets/94610345/ed101a4c-e2a9-41d2-997a-b066424b5e7c)
+![admin2](https://github.com/SteveTech153/Restaurant_website/assets/94610345/cb28f197-95cd-43fd-a279-aa87baebd81f)
+
 https://github.com/SteveTech153/Restaurant_website/assets/94610345/085c3061-e517-4f57-a62c-a52ddc57f2c4
 
 
