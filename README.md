@@ -7,3 +7,11 @@
 ![image](https://user-images.githubusercontent.com/94610345/236261817-685373ac-b1a3-4c90-8dbd-36f998f9bf5c.png)
 
 ## Admin side 
+
+
+https://github.com/SteveTech153/Restaurant_website/assets/94610345/085c3061-e517-4f57-a62c-a52ddc57f2c4
+
+
+
+https://github.com/SteveTech153/Restaurant_website/assets/94610345/e561161c-6026-405c-ab29-365ce0cf7434
+
