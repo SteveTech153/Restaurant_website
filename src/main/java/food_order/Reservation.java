@@ -43,7 +43,6 @@ public class Reservation extends HttpServlet {
 			
 	   		}
 	   		catch(Exception e){ }  
-		doGet(request, response);
 	}
 
 }
