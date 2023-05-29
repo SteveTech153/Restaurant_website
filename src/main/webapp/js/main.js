@@ -120,25 +120,7 @@
 const map1 = new Map();
 let size = parseInt(document.querySelector("#size"),10);
 
-for (let i = 1; i <= size; i++){
-    document.querySelector("#plus"+i).addEventListener("click", function () {
-        // increase value
-        var value = parseInt(document.querySelector("#qty"+i).innerHTML, 10);
-        value = isNaN(value) ? 0 : value;
-        value++;
-        document.querySelector("#qty"+i).innerHTML = value;
-        map1.set(document.querySelector("#item_name"+i).innerHTML, value);
-    });    
-    document.querySelector("#minus"+i).addEventListener("click", function () {
-            // decrease value
-            var value = parseInt(document.querySelector(".qty"+i).innerHTML, 10);
-            value = isNaN(value) ? 0 : value;
-            value < 1 ? value = 1 : '';
-            value--;
-            document.querySelector("#qty"+i).innerHTML = value;
-            map1.set(document.querySelector("#item_name"+i).innerHTML, value);
-        });
-}
+
 
 document.querySelector("#submit_btn").addEventListener("click", function () {
     let str = "";
